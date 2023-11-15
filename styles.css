@@ -1,0 +1,129 @@
+body {
+  background-color: rgb(209, 189, 235)
+  font-family: "Lato"; sans-serif;
+  color: rgb(0, 0, 0);
+}
+
+header,
+footer,
+section {
+  padding: 20px;
+}
+
+article h2 {
+  background-color: rgb(127, 176, 205)
+}
+
+header,
+main {
+  display: flex;
+  gap: 1rem;
+}
+
+.gauche,
+.droite {
+  width: 50%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.column {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  padding: 20px;
+  border: 1px solid rgb(141, 18, 18);
+}
+
+/* Clearfix to handle float */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+  }
+
+  img{
+    border-radius: 60%;
+  }Marketing Digital 
+  Webmarketing, Référencement naturel, Audit de sites, CRM,
+  E-Commerce et Emailing
+
+.bg-blue{
+  background-color: rgb(166, 166, 223);
+  margin: 3px;
+}
+
+.bg-yellow{
+  background-color: yellow;
+  margin: 3px;
+}
+
+.bg-orange{
+  background-color: orange;
+  margin: 3px;
+}
+.bg-green{
+  background-color: rgb(33, 186, 33);
+  margin: 3px;
+}
+
+.bg-orange{
+  background-color: orange;
+  margin: 3px;
+}
+
+.bg-yellow{
+  background-color: yellow;
+  margin: 3px;
+}
+
+}
+.bg-yellow{
+  background-color: yellow;
+  margin: 3px;
+}
+.bg-blue{
+  background-color: rgb(115, 146, 156);
+  margin: 3px;
+}
+.bg-green{
+  background-color: rgb(142, 77, 77);
+  margin: 3px;
+}
+.bg-orange{
+background-color: rgb(205, 187, 50);
+margin: 3px;
+}
+.bg-blue{
+  background-color: rgb(98, 98, 201);
+  margin: 3px;
+}
+.bg-orange{
+  background-color: orange;
+  margin: 3px;
+}
+
+.bg-orange{
+  background-color: orange;
+  margin: 3px;
+}
+
+.bg-blue{
+  background-color: rgb(150, 150, 208);
+  margin: 3px;
+}
+
+.bg-orange{
+  background-color: orange;
+  margin: 3px;
+}
+
+.bg-blue{
+  background-color: rgb(153, 153, 215);
+  margin: 3px;
+}
+
